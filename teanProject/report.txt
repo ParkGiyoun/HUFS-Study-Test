@@ -1,0 +1,4 @@
+Infection 80.0 H
+Seriousness 60.0 H
+Seriousness 20.0 L
+Infection 50.0 H
